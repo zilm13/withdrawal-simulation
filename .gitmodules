@@ -1,0 +1,11 @@
+[submodule "SerenityPool"]
+	path = SerenityPool
+	url = git@github.com:zilm13/SerenityPool.git
+[submodule "teku"]
+	path = teku
+	url = git@github.com:zilm13/teku.git
+	branch = withdrawal-simulation
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:zilm13/go-ethereum.git
+	branch = catalyst-for-withdrawal-simulation
