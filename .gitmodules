@@ -9,3 +9,7 @@
 	path = go-ethereum
 	url = git@github.com:zilm13/go-ethereum.git
 	branch = catalyst-for-withdrawal-simulation
+[submodule "solidity"]
+	path = solidity
+	url = git@github.com:zilm13/solidity.git
+	branch = eth2-opcodes
